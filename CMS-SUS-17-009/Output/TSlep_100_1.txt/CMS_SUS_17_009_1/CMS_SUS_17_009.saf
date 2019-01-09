@@ -1,0 +1,12 @@
+<SAFheader>
+</SAFheader>
+
+<RegionSelection>
+    "SR_pTmiss_100-150"
+    "SR_pTmiss_150-225"
+    "SR_pTmiss_225-300"
+    "SR_pTmiss_300"
+</RegionSelection>
+
+<SAFfooter>
+</SAFfooter>

@@ -1,0 +1,54 @@
+<SAFheader>
+</SAFheader>
+
+<InitialCounter>
+"Initial number of events"      #
+200000          0               # nentries
+2.000000e+05    0.000000e+00    # sum of weights
+2.000000e+05    0.000000e+00    # sum of weights^2
+</InitialCounter>
+
+<Counter>
+"OCSF==2"                       # 1st cut
+54957           0               # nentries
+5.478878e+04    0.000000e+00    # sum of weights
+5.466610e+04    0.000000e+00    # sum of weights^2
+</Counter>
+
+<Counter>
+"m(ll)>20"                      # 2st cut
+54925           0               # nentries
+5.475686e+04    0.000000e+00    # sum of weights
+5.463424e+04    0.000000e+00    # sum of weights^2
+</Counter>
+
+<Counter>
+"m(ll)<76_or_>106"              # 3st cut
+53938           0               # nentries
+5.378322e+04    0.000000e+00    # sum of weights
+5.367039e+04    0.000000e+00    # sum of weights^2
+</Counter>
+
+<Counter>
+"Jet_Veto"                      # 4st cut
+53938           0               # nentries
+5.378322e+04    0.000000e+00    # sum of weights
+5.367039e+04    0.000000e+00    # sum of weights^2
+</Counter>
+
+<Counter>
+"MT2(ll)>90"                    # 5st cut
+41818           0               # nentries
+4.170772e+04    0.000000e+00    # sum of weights
+4.162724e+04    0.000000e+00    # sum of weights^2
+</Counter>
+
+<Counter>
+"pTmiss_300"                    # 6st cut
+24690           0               # nentries
+2.461499e+04    0.000000e+00    # sum of weights
+2.455983e+04    0.000000e+00    # sum of weights^2
+</Counter>
+
+<SAFfooter>
+</SAFfooter>
