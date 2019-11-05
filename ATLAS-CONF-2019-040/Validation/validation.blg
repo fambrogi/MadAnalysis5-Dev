@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: validation.aux
+The style file: JHEP.bst
+Illegal, another \bibstyle command---line 59 of file validation.aux
+ : \bibstyle
+ :          {utphys.bst}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+You've used 15 entries,
+            2195 wiz_defined-function locations,
+            610 strings with 6562 characters,
+and the built_in function-call counts, 3892 in all, are:
+= -- 352
+> -- 198
+< -- 0
++ -- 72
+- -- 57
+* -- 332
+:= -- 569
+add.period$ -- 15
+call.type$ -- 15
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 193
+empty$ -- 340
+format.name$ -- 57
+if$ -- 960
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 48
+newline$ -- 48
+num.names$ -- 13
+pop$ -- 67
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 122
+stack$ -- 0
+substring$ -- 134
+swap$ -- 73
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 23
+width$ -- 17
+write$ -- 143
+(There was 1 error message)

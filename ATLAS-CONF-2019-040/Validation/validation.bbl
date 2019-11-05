@@ -1,0 +1,85 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{Dumont:2014tja}
+B.~Dumont, B.~Fuks, S.~Kraml, S.~Bein, G.~Chalons, E.~Conte, S.~Kulkarni,
+  D.~Sengupta, and C.~Wymant, {\it {Toward a public analysis database for LHC
+  new physics searches using MADANALYSIS 5}},  {\em Eur. Phys. J.} {\bf C75}
+  (2015), no.~2 56, [\href{http://xxx.lanl.gov/abs/1407.3278}{{\tt
+  arXiv:1407.3278}}].
+
+\bibitem{Conte:2014zja}
+E.~Conte, B.~Dumont, B.~Fuks, and C.~Wymant, {\it {Designing and recasting LHC
+  analyses with MadAnalysis 5}},  {\em Eur. Phys. J.} {\bf C74} (2014), no.~10
+  3103, [\href{http://xxx.lanl.gov/abs/1405.3982}{{\tt arXiv:1405.3982}}].
+
+\bibitem{Conte:2018vmg}
+E.~Conte and B.~Fuks, {\it {Confronting new physics theories to LHC data with
+  MadAnalysis 5}},  \href{http://xxx.lanl.gov/abs/1808.0048}{{\tt
+  arXiv:1808.0048}}.
+
+\bibitem{ATLAS2019vcq}
+{\bf ATLAS} Collaboration, T.~A. collaboration, {\it {Search for squarks and
+  gluinos in final states with jets and missing transverse momentum using 139
+  fb$^{-1}$ of $\sqrt{s}$ =13 TeV $pp$ collision data with the ATLAS
+  detector}}, .
+
+\bibitem{Aad:2014wea}
+{\bf ATLAS} Collaboration, G.~Aad et~al., {\it {Search for squarks and gluinos
+  with the ATLAS detector in final states with jets and missing transverse
+  momentum using $\sqrt{s}=8$ TeV proton--proton collision data}},  {\em JHEP}
+  {\bf 1409} (2014) 176, [\href{http://xxx.lanl.gov/abs/1405.7875}{{\tt
+  arXiv:1405.7875}}].
+
+\bibitem{Aaboud:2017vwy}
+{\bf ATLAS} Collaboration, M.~Aaboud et~al., {\it {Search for squarks and
+  gluinos in final states with jets and missing transverse momentum using
+  36fb$^{-1}$ of $\sqrt{s}=13$TeV pp collision data with the ATLAS detector}},
+  {\em Phys. Rev.} {\bf D97} (2018), no.~11 112001,
+  [\href{http://xxx.lanl.gov/abs/1712.0233}{{\tt arXiv:1712.0233}}].
+
+\bibitem{ATLAS-SUSY-2013-02MA5}
+G.~Chalons and D.~Sengupta, {\it {Madanalysis 5 implementation of the ATLAS
+  multi jet analysis documented in arXiv:1405.7875, JHEP 1409 (2014) 176}}, .
+
+\bibitem{ATLAS-SUSY-2013-02VALIDATION}
+\url{https://madanalysis.irmp.ucl.ac.be/raw-attachment/wiki/PublicAnalysisDatabase/ma5\_atlas\_1405\_7875.pdf}.
+
+\bibitem{ATLAS-SUSY-2016-07MA5}
+G.~Chalons and H.~Reyes-Gonzalez, {\it {MadAnalysis 5 implementation of
+  ATLAS-SUSY-16-07 (arXiv:1712.02332)}}, .
+
+\bibitem{ATLAS-SUSY-2016-07VALIDATION}
+\url{http://madanalysis.irmp.ucl.ac.be/raw-attachment/wiki/PublicAnalysisDatabase/validation_atlas_susy_16_07.pdf}.
+
+\bibitem{Alwall:2014hca}
+J.~Alwall, R.~Frederix, S.~Frixione, V.~Hirschi, F.~Maltoni, O.~Mattelaer,
+  H.~S. Shao, T.~Stelzer, P.~Torrielli, and M.~Zaro, {\it {The automated
+  computation of tree-level and next-to-leading order differential cross
+  sections, and their matching to parton shower simulations}},  {\em JHEP} {\bf
+  07} (2014) 079, [\href{http://xxx.lanl.gov/abs/1405.0301}{{\tt
+  arXiv:1405.0301}}].
+
+\bibitem{Sjostrand:2014zea}
+T.~Sjostrand, S.~Ask, J.~R. Christiansen, R.~Corke, N.~Desai, P.~Ilten,
+  S.~Mrenna, S.~Prestel, C.~O. Rasmussen, and P.~Z. Skands, {\it {An
+  Introduction to PYTHIA 8.2}},  {\em Comput. Phys. Commun.} {\bf 191} (2015)
+  159--177, [\href{http://xxx.lanl.gov/abs/1410.3012}{{\tt arXiv:1410.3012}}].
+
+\bibitem{deFavereau:2013fsa}
+{\bf DELPHES 3} Collaboration, J.~de~Favereau, C.~Delaere, P.~Demin,
+  A.~Giammanco, V.~Lemaître, A.~Mertens, and M.~Selvaggi, {\it {DELPHES 3, A
+  modular framework for fast simulation of a generic collider experiment}},
+  {\em JHEP} {\bf 02} (2014) 057,
+  [\href{http://xxx.lanl.gov/abs/1307.6346}{{\tt arXiv:1307.6346}}].
+
+\bibitem{Cacciari:2011ma}
+M.~Cacciari, G.~P. Salam, and G.~Soyez, {\it {FastJet User Manual}},  {\em
+  Eur.Phys.J.} {\bf C72} (2012) 1896,
+  [\href{http://xxx.lanl.gov/abs/1111.6097}{{\tt arXiv:1111.6097}}].
+
+\bibitem{Cacciari:2008gp}
+M.~Cacciari, G.~P. Salam, and G.~Soyez, {\it {The Anti-k(t) jet clustering
+  algorithm}},  {\em JHEP} {\bf 0804} (2008) 063,
+  [\href{http://xxx.lanl.gov/abs/0802.1189}{{\tt arXiv:0802.1189}}].
+
+\end{thebibliography}\endgroup

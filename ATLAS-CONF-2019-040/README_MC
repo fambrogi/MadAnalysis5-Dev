@@ -1,0 +1,16 @@
+To run the CKWWL merging:
+- select 0 in the run_card:
+ 0 = ickkw            ! 0 no matching, 1 MLM
+- correspondingly set to 0 the xqcut cut 
+ 0.0   = xqcut   ! minimum kt jet measure between partons
+
+- select a value > 0 for ktdurham
+
+ 450.0  =  ktdurham        
+
+( here should go the value prescribed by ATLAS i.e. mgluino/4 )
+
+This parameter will also be set in the pythia8 card 
+
+
+

@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Monte Carlo Sample Generation}{2}{section.2}
+\contentsline {section}{\numberline {3}Validation}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Squark model: $p p \rightarrow \mathaccentV {tilde}07Eq \mathaccentV {tilde}07Eq , \mathaccentV {tilde}07Eq \rightarrow q \mathaccentV {tilde}07E\chi _1 ^0$}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Squark model: $p p \rightarrow \mathaccentV {tilde}07Eq \mathaccentV {tilde}07Eq , \mathaccentV {tilde}07Eq \rightarrow q' \mathaccentV {tilde}07E\chi _1 ^{\pm } , \mathaccentV {tilde}07E\chi _1 ^{\pm } \rightarrow W^{\pm } \mathaccentV {tilde}07E\chi _1 ^0$}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Gluino model: $p p \rightarrow \mathaccentV {tilde}07Eq \mathaccentV {tilde}07Eq , \mathaccentV {tilde}07Eq \rightarrow q \mathaccentV {tilde}07E\chi _1 ^0$}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Gluino model: $p p \rightarrow \mathaccentV {tilde}07Eg \mathaccentV {tilde}07Eg , \mathaccentV {tilde}07Eg \rightarrow qq' \mathaccentV {tilde}07E\chi _1 ^{\pm } , \mathaccentV {tilde}07E\chi _1 ^{\pm } \rightarrow W^{\pm } \mathaccentV {tilde}07E\chi _1 ^0$}{7}{subsection.3.4}
+\contentsline {section}{\numberline {4}Conclusions}{9}{section.4}
