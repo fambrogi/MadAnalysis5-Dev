@@ -14,5 +14,5 @@ Code published at https://inspirehep.net/record/1685439/
 ## CMS-SUS-17-009 (2 OS leptons, TSlepSlep)
 -> Validation phase (not working)
 
-## ATLAS-CONF-2019-040
+## ATLAS-CONF-2019-040 (2-6j , 0lep, 139 fb^-1 )
 -> To be published
